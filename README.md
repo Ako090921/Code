@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
          System.out.println("WHERE DO YOU WANT TO EAT?");
